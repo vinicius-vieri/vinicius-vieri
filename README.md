@@ -31,7 +31,7 @@ Tecnologias mudam constantemente, assim como meu repositório, então recomendo 
 
 ### Experiências
 
-- **"Uma nova Rede Bayesiana Hipergeométrica “Fuzzy” para Avaliação de Treinamento: Desenvolvimento e Implementação"(set/2022 - fev/2023)**: Durante meu período de bolsista nesse projeto de pesquisa, aprendi conteúdos introdutórios de conjuntos fuzzy, naive bayes e distribuições de probabilidade e estatística utilizando a linguagem R e o package FuzzyCLass. Por fim, estudei o funcionamento do simulador SITEG II, um software imersivo que utilizado dispositivos hápticos para treinamento de futuros profissionais da medicina em um exame ginecológico pelo [Laboratório de Tecnologia para o Ensino Virtual e Estatística](http://www.de.ufpb.br/~labteve/).
+- **"Uma nova Rede Bayesiana Hipergeométrica “Fuzzy” para Avaliação de Treinamento: Desenvolvimento e Implementação"(set/2022 - fev/2023)**: Durante meu período de bolsista nesse projeto de pesquisa, aprendi conteúdos introdutórios de conjuntos fuzzy, naive bayes e distribuições de probabilidade e estatística utilizando a linguagem R e o package FuzzyCLass. Por fim, estudei o funcionamento do simulador SITEG II, um software imersivo que utilizado dispositivos hápticos para treinamento de futuros profissionais da medicina em um exame ginecológico desenvolvido pelo [Laboratório de Tecnologia para o Ensino Virtual e Estatística](http://www.de.ufpb.br/~labteve/).
 
 ### Projetos pessoas e/ou acadêmicos
 
