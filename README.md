@@ -37,5 +37,5 @@ Tecnologias mudam constantemente, assim como meu repositório, então recomendo 
 
 - [**retail-exploratory-al**](https://github.com/vinicius-vieri/retail-exploratory-al): Análise exploratória de dados para área do varejo utilizando bibliotecas de ciência de dados para resolver 8 perguntas de negócio.
 
-- [**Matrix Manipulator**](https://github.com/vinicius-vieri/matrix-manipulator).: Manipulador de matrizes, cômicamente apelidado de pequeno numpy, serviu para solidificar conhecimentos em programação estruturada.
+- [**Matrix Manipulator**](https://github.com/vinicius-vieri/matrix-manipulator).: Manipulador de matrizes, cômicamente apelidado de pequeno numpy, serviu para solidificar conhecimentos em programação estruturada através do cálculo e transformação de matrizes utilizando linguagem C.
 
