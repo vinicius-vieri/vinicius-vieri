@@ -5,24 +5,25 @@ Eu sou Vinícius Vieri, estudante de graduação em ciência de dados e intelig�
 - Atualmente estou aprendendo sobre machine learning e engenharia de dados.
 - Você pode me contatar em -> contato.viniciusvieri@gmail.com
 
-### Conhecimentos sólidos de lógica de programação 
+### Conhecimentos sólidos de lógica de programação e resolução de problemas
 
-- Estruturas de dados e algoritmos
-- Inferência estatística e teoria das probabilidades
-- Orientação à objetos
-- Programação estruturada
-- Conhecimentos de lógica fuzzy
+- Estruturas de dados e algoritmos.
+- Inferência estatística e teoria das probabilidades.
+- Orientação à objetos.
+- Programação estruturada.
+- Conhecimentos de lógica fuzzy.
 - Experiência com distrbuições Linux como: Ubuntu, Fedora, Mint, Suse, Pop! e derivados.
+- Lógica aplicada à programação para resolução de problemas reais.
 
 ### Conhecimentos específicos
 
-- Linguagem Python, R, C/C++ 
-- Python aplicado à Ciência de dados
-- Excel básico
-- Pandas
-- Numpy
-- Seaborn e Matplotlib
-- Sqlite3
+- Linguagem Python, R, C/C++.
+- Python aplicado à Ciência de dados.
+- Excel básico.
+- Pandas.
+- Numpy.
+- Seaborn e Matplotlib.
+- Sqlite3.
 
 Tecnologias mudam constantemente, assim como meu repositório, então recomendo que fique de olho nos meus projetos listados ou em repositórios em destaque para se manter mais atualizado :D.
 
@@ -32,7 +33,7 @@ Tecnologias mudam constantemente, assim como meu repositório, então recomendo 
 
 ### Projetos pessoas e/ou acadêmicos
 
-- **retail-exploratory-al**: Análise exploratória de dados para área do varejo utilizando bibliotecas de ciência de dados para resolver 8 perguntas de negócio. Você pode encontrá-lo aqui
+- **retail-exploratory-al**: Análise exploratória de dados para área do varejo utilizando bibliotecas de ciência de dados para resolver 8 perguntas de negócio. Você pode encontrá-lo [aqui](https://github.com/vinicius-vieri/retail-exploratory-al).
 
-- **Matrix Manipulator**: Manipulador de matrizes, cômicamente apelidado de pequeno numpy, serviu para meu aprendizado de programação estruturada. Você pode encontrá-lo aqui
+- **Matrix Manipulator**: Manipulador de matrizes, cômicamente apelidado de pequeno numpy, serviu para meu aprendizado de programação estruturada. Você pode encontrá-lo [aqui](https://github.com/vinicius-vieri/matrix-manipulator).
 
