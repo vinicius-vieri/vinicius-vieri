@@ -17,8 +17,11 @@ Eu sou Vinícius Vieri, estudante de graduação em ciência de dados e intelig�
 
 ### Conhecimentos específicos
 
-- Linguagem Python, R, C/C++.
-- Python aplicado à Ciência de dados.
+- Python
+- R
+- C/C++
+- Ciência de dados.
+- Análise de dados
 - Excel básico.
 - Pandas.
 - Numpy.
@@ -33,7 +36,7 @@ Tecnologias mudam constantemente, assim como meu repositório, então recomendo 
 
 ### Projetos pessoas e/ou acadêmicos
 
-- **retail-exploratory-al**: Análise exploratória de dados para área do varejo utilizando bibliotecas de ciência de dados para resolver 8 perguntas de negócio. Você pode encontrá-lo [aqui](https://github.com/vinicius-vieri/retail-exploratory-al).
+- [**retail-exploratory-al**](https://github.com/vinicius-vieri/retail-exploratory-al): Análise exploratória de dados para área do varejo utilizando bibliotecas de ciência de dados para resolver 8 perguntas de negócio.
 
-- **Matrix Manipulator**: Manipulador de matrizes, cômicamente apelidado de pequeno numpy, serviu para meu aprendizado de programação estruturada. Você pode encontrá-lo [aqui](https://github.com/vinicius-vieri/matrix-manipulator).
+- [**Matrix Manipulator**](https://github.com/vinicius-vieri/matrix-manipulator).: Manipulador de matrizes, cômicamente apelidado de pequeno numpy, serviu para solidificar conhecimentos em programação estruturada.
 
