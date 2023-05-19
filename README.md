@@ -21,11 +21,9 @@ Eu sou Vinícius Vieri, estudante de graduação em ciência de dados e intelig�
 - C/C++
 - Ciência de dados.
 - Análise de dados
-- Excel básico.
 - Pandas.
 - Numpy.
 - Seaborn e Matplotlib.
-- Sqlite3.
 
 Tecnologias mudam constantemente, assim como meu repositório, então recomendo que fique de olho nos meus projetos listados ou em repositórios em destaque para se manter mais atualizado :D.
 
