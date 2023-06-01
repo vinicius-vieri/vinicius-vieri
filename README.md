@@ -5,7 +5,7 @@
 
 - 💻 Programming languages: Python, R and SQL
 
-- 🎲 My interests include reinforcement learning, economics and statistics
+- 🎲 My interests include reinforcement learning, health, economics and statistics
 
 - 📫 contacts:
 - e-mail: contato.viniciusvieri@gmail.com 
