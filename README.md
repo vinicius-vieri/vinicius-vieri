@@ -3,7 +3,7 @@
 
 - 👩‍💻 I'm currently working on machine learning and data analysis projects
 
-- 💻 Programming languages: Python, R and SQL
+- 💻 Programming languages: Python and SQL
 
 - 🎲 My interests include reinforcement learning, data science, economics and statistics
 
