@@ -8,6 +8,6 @@
 - 🎲 My interests include reinforcement learning, data science, economics and statistics
 
 - 📫 contacts:
-- e-mail: contato.viniciusvieri@proton.me
+- e-mail: viniciusvbl.inbox@gmail.com
 - linkedin: https://www.linkedin.com/in/viniciusvieri/
 
