@@ -35,11 +35,6 @@ Olá! Sou Vinícius, estudante de ciência de dados, e sempre em busca de aprend
 - Probabilidade e estatística
 - Bibliotecas python para data science(Pandas, Matplotlib, Numpy, ScikitLearn, TensorFlow...)
 
-
-## Estatísticas do GitHub 📊
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=vinicius-vieri&show_icons=true&count_private=true&hide=contribs)
-
 ## Vamos Conectar! 🔗
 
 Se você também é apaixonado(a) por ciência de dados,  ou apenas quer bater um papo, não hesite em entrar em contato. Vamos aprender e crescer juntos!
