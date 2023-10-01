@@ -15,10 +15,6 @@ Here are some of the technologies and tools I'm familiar with:
 - Data science tools like Excel, Pandas, NumPy, Scikit-Learn, and more
 - Statistics
 
-## GitHub Stats
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinicius-vieri&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Connect with Me
 
 Feel free to connect with me on:
