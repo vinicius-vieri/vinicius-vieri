@@ -13,7 +13,8 @@ Here are some of the technologies and tools I'm familiar with:
 - Git/GitHub
 - Python
 - Data science tools like Excel, Pandas, NumPy, Scikit-Learn, and more
-- Statistics
+- Statistics and probability
+- Machine learning
 
 ## Connect with Me
 
