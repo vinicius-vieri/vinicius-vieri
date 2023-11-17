@@ -15,8 +15,7 @@
 **Ciência de dados e inteligência artificial** (2021.2 - Até o momento) \
 [**Universidade Federal da Paraíba**](https://www.ufpb.br/)\
 Linguagens & Tecnologias utilizadas: `Python`, `C/C++`, `Jupyter`, `Ambiente Anaconda`, `visualização de dados`, `bancos de dados`, `estruturas de dados`, `orientação a objetos`, `estatística`, `BI`, `lógica de programação`, `matemática`, `aprendizado de máquina supervisionado e não-supervisionado`.
-O curso de Bacharelado em Ciência de Dados e Inteligência Artificial é oferecido pelo Centro de Informática da UFPB, com carga horária de 3.000 horas e duração de quatro anos. O curso é oferecido no período diurno e serão disponibilizadas 30 vagas por semestre.\
-O processo de criação do curso teve início em 2017, quando foi formada uma comissão de docentes do Departamento de Computação Científica com o objetivo de analisar o impacto das mudanças tecnológicas nos cursos de graduação das melhores universidades do mundo. Durante a pesquisa, houve um notável crescimento rápido no número de programas nas áreas de Ciência de Dados e Inteligência Artificial, indicando uma tendência cada vez mais forte nessa direção. Segundo o site http://datascience.community/colleges (acessado em 2019), existem 63 cursos de graduação espalhados pelo mundo. Ao combinar programas de graduação e pós-graduação, esse número impressionante chega a 611 programas.
+O curso de Bacharelado em Ciência de Dados e Inteligência Artificial é oferecido pelo Centro de Informática da UFPB, com carga horária de 3.000 horas e duração de quatro anos.
 #
 
 #### Experiência em projeto de pesquisa:
