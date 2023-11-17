@@ -12,8 +12,6 @@
 # 
 #### Formação Acadêmica:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.ufpb.br/ufpb/contents/noticias/nota-de-repudio/logo-ufpb.png/view"/>](https://www.ufpb.br/)
-
 **Ciência de dados e inteligência artificial** (2021 - Até o momento) \
 [**Universidade Federal da Paraíba**](https://www.ufpb.br/)\
 Linguagens & Tecnologias utilizadas: `Python`, `C/C++`, `Jupyter`, `Ambiente Anaconda`, `visualização de dados`, `bancos de dados`, `estruturas de dados`, `orientação a objetos`, `estatística`, `BI`, `lógica de programação`, `matemática`.
@@ -21,7 +19,6 @@ Linguagens & Tecnologias utilizadas: `Python`, `C/C++`, `Jupyter`, `Ambiente Ana
 
 #### Experiência em projeto de pesquisa:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="http://www.de.ufpb.br/~labteve/images/topo_.png"/>](http://www.de.ufpb.br/~labteve/)
 **Departamento de estatística** (2022 - 2023)\
 [**Laboratório de Tecnologias para o Ensino virtual e Estatística**](https://www.ufpb.br/) (2021 - Até o momento) \
 Linguagens & Tecnologias utilizadas: `Python`, `C/C++`, `Jupyter`, `Ambiente Anaconda`, `visualização de dados`, `bancos de dados`, `estruturas de dados`, `orientação a objetos`, `estatística`, `BI`, `lógica de programação`, `matemática`.
