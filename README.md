@@ -19,7 +19,7 @@ Linguagens & Tecnologias utilizadas: `Python`, `C/C++`, `Jupyter`, `Ambiente Ana
 
 #### Experiência em projeto de pesquisa:
 
-**Departamento de estatística** (2022.2 - 2023.1)\
+**Uma nova rede bayesiana hipergeométrica difusa para avaliação de treinamento: desenvolvimento e implementação** (2022.2 - 2023.1)\
 [**Laboratório de Tecnologias para o Ensino virtual e Estatística**](http://www.de.ufpb.br/~labteve/) \
 Linguagens & Tecnologias utilizadas: `R`, `Rstudio`, `Probabilidade e estatísica`, `teorema de bayes`, `distribuições`, `conjuntos fuzzy`, `visualização de dados`, `classificação`.\
 Durante meu período de bolsa(6 meses), aprendi conceitos introdutórios de conjuntos fuzzy, Bayes ingênuo e distribuições de probabilidade e estatística usando a linguagem R e o pacote FuzzyCLass. Por fim, estudei o funcionamento do simulador SITEG II, um software imersivo que utiliza dispositivos hápticos para treinamento de futuros profissionais médicos em exames ginecológicos.
