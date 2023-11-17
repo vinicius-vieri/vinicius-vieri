@@ -14,7 +14,7 @@
 
 **Ciência de dados e inteligência artificial** (2021 - Até o momento) \
 [**Universidade Federal da Paraíba**](https://www.ufpb.br/)\
-Linguagens & Tecnologias utilizadas: `Python`, `C/C++`, `Jupyter`, `Ambiente Anaconda`, `visualização de dados`, `bancos de dados`, `estruturas de dados`, `orientação a objetos`, `estatística`, `BI`, `lógica de programação`, `matemática`, `aprenddizado supervisionado e não-supervisionado`.
+Linguagens & Tecnologias utilizadas: `Python`, `C/C++`, `Jupyter`, `Ambiente Anaconda`, `visualização de dados`, `bancos de dados`, `estruturas de dados`, `orientação a objetos`, `estatística`, `BI`, `lógica de programação`, `matemática`, `aprendizado de máquina supervisionado e não-supervisionado`.
 #
 
 #### Experiência em projeto de pesquisa:
