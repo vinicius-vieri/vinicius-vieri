@@ -14,7 +14,7 @@
 
 **Ciência de dados e inteligência artificial** (2021.2 - Até o momento) \
 [**Universidade Federal da Paraíba**](https://www.ufpb.br/)\
-Linguagens & Tecnologias utilizadas: `Python`, `C/C++`, `Jupyter`, `Ambiente Anaconda`, `visualização de dados`, `bancos de dados`, `estruturas de dados`, `orientação a objetos`, `estatística`, `BI`, `lógica de programação`, `matemática`, `aprendizado de máquina supervisionado e não-supervisionado`.
+Linguagens & Tecnologias utilizadas: `Python`, `C/C++`, `Jupyter`, `Ambiente Anaconda`, `visualização de dados`, `bancos de dados`, `estruturas de dados`, `orientação a objetos`, `estatística`, `BI`, `lógica de programação`, `matemática`, `aprendizado de máquina supervisionado e não-supervisionado`.\
 O curso de Bacharelado em Ciência de Dados e Inteligência Artificial é oferecido pelo Centro de Informática da UFPB, com carga horária de 3.000 horas e duração de quatro anos.
 #
 
