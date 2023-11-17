@@ -14,15 +14,14 @@
 
 **Ciência de dados e inteligência artificial** (2021 - Até o momento) \
 [**Universidade Federal da Paraíba**](https://www.ufpb.br/)\
-Linguagens & Tecnologias utilizadas: `Python`, `C/C++`, `Jupyter`, `Ambiente Anaconda`, `visualização de dados`, `bancos de dados`, `estruturas de dados`, `orientação a objetos`, `estatística`, `BI`, `lógica de programação`, `matemática`.
+Linguagens & Tecnologias utilizadas: `Python`, `C/C++`, `Jupyter`, `Ambiente Anaconda`, `visualização de dados`, `bancos de dados`, `estruturas de dados`, `orientação a objetos`, `estatística`, `BI`, `lógica de programação`, `matemática`, `aprenddizado supervisionado e não-supervisionado`.
 #
 
 #### Experiência em projeto de pesquisa:
 
 **Departamento de estatística** (2022 - 2023)\
-[**Laboratório de Tecnologias para o Ensino virtual e Estatística**](https://www.ufpb.br/) (2021 - Até o momento) \
-Linguagens & Tecnologias utilizadas: `Python`, `C/C++`, `Jupyter`, `Ambiente Anaconda`, `visualização de dados`, `bancos de dados`, `estruturas de dados`, `orientação a objetos`, `estatística`, `BI`, `lógica de programação`, `matemática`.
-
+[**Laboratório de Tecnologias para o Ensino virtual e Estatística**](https://www.ufpb.br/) \
+Linguagens & Tecnologias utilizadas: `R`, `Rstudio`, `Probabilidade e estatísica`, `teorema de bayes`, `distribuições`, `conjuntos fuzzy`, `visualização de dados`, `classificação`.
 #
 Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/viniciusvieri/) para uma descrição mais detalhada da minha experiência, educação e certificação.
 #
