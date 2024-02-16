@@ -5,9 +5,9 @@
 ### O meu nome é Vinícius, Seja bem-vindo ao meu perfil GitHub. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
 - 🔰 Sou de Santa Rita/PB, Brasil
-- 🎮 Apaixonado por jogos e computação 
+- 🎮 Apaixonado por jogos e rpg
 - 🧠 Estudante de Ciência de dados e IA
-- 👓 Atualmente estudando redes de computadores, processamento de linguagem natural, aprendizagem de máquina e importância dos dados na programação.
+- 👓 Atualmente estudando lógica aplicada e aprendizagem de máquina
 
 # 
 #### Formação Acadêmica:
