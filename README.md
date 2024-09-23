@@ -1,22 +1,58 @@
-# Olá! Tudo bem? eu me chamo Vinícius
+# 👋 Hello! I'm Vinícius Vieri Bezerra de Lima
 
-**Estudante de Ciência de Dados na UFPB**  
-Atualmente no sexto semestre, em busca da minha primeira oportunidade de estágio.
-
-Tenho uma base sólida em Python, aprendizado de máquina e análise de dados, que desenvolvi através de cursos e projetos universitários. Estou ansioso para aplicar esse conhecimento na resolução de problemas do mundo real.
-
-Minha paixão está em utilizar dados para descobrir padrões, gerar insights valiosos e impulsionar a tomada de decisões. Estou comprometido em crescer profissionalmente nas áreas de ciência de dados, aprendizado de máquina e engenharia de dados. Meu objetivo é contribuir significativamente para as equipes com as quais eu trabalhar.
+Estudante de **Ciência de Dados** no sexto semestre da **UFPB**, em busca da minha primeira oportunidade de estágio. Apaixonado por tecnologia, aprendizado de máquina e análise de dados, estou sempre explorando maneiras de transformar dados em insights valiosos!
 
 ---
 
-### Um pouco mais sobre mim:
-
-🎲 **Hobbies:** Adoro jogar RPG de mesa, criando histórias épicas e personagens marcantes.  
-🎨 **Miniaturas:** Quando não estou programando, estou pintando miniaturas de Warhammer, mergulhando em mundos de ficção!
+## 💡 Sobre Mim
+- 🎓 Estudante de **Ciência de Dados e Inteligência Artificial** na UFPB
+- 🔍 Experiência prática em **Python**, **Machine Learning** e **Análise de Dados**
+- 📊 Produção de artigos científicos com foco em **Visão Computacional** e **Processamento de Linguagem Natural**
+- 💻 Buscando aplicar minhas habilidades em desafios reais para ajudar a tomar decisões baseadas em dados
+- 🌱 Estou constantemente aprendendo e expandindo minhas habilidades em **Ciência de Dados** e **Engenharia de Dados**
 
 ---
 
-Sinta-se à vontade para se conectar comigo ou me enviar uma mensagem!
+## 🚀 Experiência
+### **Cientista de Dados | TAIL (Liga de Inteligência Artificial da UFPB)**
+*09/2024 - Presente*
+- Foco em **Visão Computacional** e **NLP**
+- Participação em encontros acadêmicos e networking
+- Programação orientada por pesquisa e orientação de professores doutores
 
-- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/viniciusvieri)
-- **Email:** [cttviniciusvieri@gmail.com](mailto:cttviniciusvieri@gmail.com)
+### **Pesquisador de Aprendizado de Máquina | TRIL Lab**
+*07/2024 - Presente*
+- Implementação de algoritmos de **Machine Learning** com foco em eficiência
+- Processamento e engenharia de dados, desenvolvimento de atributos
+
+### **Programador Estatístico | LabTEVE**
+*09/2022 - 02/2023*
+- Desenvolvimento de funções para bibliotecas de **Realidade Aumentada**
+- Programação em **R** e **Python** com foco em **Inteligência Artificial**
+- Criação de relatórios técnicos de **Probabilidade** e **Estatística**
+
+---
+
+## 🛠️ Habilidades Técnicas
+- **Python** • **Pandas** • **Cloud** • **Visualização de Dados**
+- **Aprendizado de Máquina** • **Pytorch** • **Scikit-learn**
+- **Processamento de Linguagem Natural** • **RNNs** • **Keras** • **Numpy**
+- **R** • **Limpeza e Tratamento de Dados** • **Git** • **Estatística**
+
+---
+
+## 🧑‍🎨 Hobbies
+- 🎲 **RPG de mesa**: Criador de histórias épicas e personagens únicos
+- 🎨 **Miniaturas de Warhammer**: Pintura detalhada e imersão no mundo da ficção
+- 🧩 **Quebra-cabeças** e **Xadrez**
+
+---
+
+## 🌐 Contatos
+- **Email**: [cttviniciusvieri@gmail.com](mailto:cttviniciusvieri@gmail.com)
+- **LinkedIn**: [linkedin.com/in/viniciusvieri/](https://linkedin.com/in/viniciusvieri/)
+- **GitHub**: [github.com/vinicius-vieri](https://github.com/vinicius-vieri)
+
+---
+
+🌟 **Estou sempre aberto para colaborações, oportunidades e novos desafios! Vamos nos conectar e criar algo incrível juntos!**
