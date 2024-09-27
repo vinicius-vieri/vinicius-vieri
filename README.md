@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Vinícius Vieri Bezerra de Lima
+# 👋 Hello! I'm Vinícius
 
 Estudante de **Ciência de Dados** no sexto semestre da **UFPB**, em busca da minha primeira oportunidade de estágio. Apaixonado por tecnologia, aprendizado de máquina e análise de dados, estou sempre explorando maneiras de transformar dados em insights valiosos!
 
