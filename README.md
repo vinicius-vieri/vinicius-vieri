@@ -16,7 +16,6 @@ Estudante de **Ciência de Dados** no sexto semestre da **UFPB**, em busca da mi
 ## 🚀 Experiência
 ### **Cientista de Dados | TAIL (Liga de Inteligência Artificial da UFPB)**
 *09/2024 - Presente*
-- Foco em **Visão Computacional** e **NLP**
 - Participação em encontros acadêmicos e networking
 - Programação orientada por pesquisa e orientação de professores doutores
 
