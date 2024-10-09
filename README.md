@@ -7,7 +7,6 @@ Estudante de **Ciência de Dados** no sexto semestre da **UFPB**, em busca da mi
 ## 💡 Sobre Mim
 - 🎓 Estudante de **Ciência de Dados e Inteligência Artificial** na UFPB
 - 🔍 Experiência prática em **Python**, **Machine Learning** e **Análise de Dados**
-- 📊 Produção de artigos científicos com foco em **Visão Computacional** e **Processamento de Linguagem Natural**
 - 💻 Buscando aplicar minhas habilidades em desafios reais para ajudar a tomar decisões baseadas em dados
 - 🌱 Estou constantemente aprendendo e expandindo minhas habilidades em **Ciência de Dados** e **Engenharia de Dados**
 
