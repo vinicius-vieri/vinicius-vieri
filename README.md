@@ -1,26 +1,41 @@
 <center>
 
-# Hello, I'm Vinícius Vieri 👋
-
-## _Welcome to my GitHub profile!_
+# 👋 Hi, I’m Vinícius Vieri
 
 </center>
 
-- 🎓 Undergraduate student in **Data Science and Artificial Intelligence** at [UFPB](https://www.ufpb.br/);
-- 🤖 Researcher in **Natural Language Processing and Machine Learning** at [ARIA](https://www.linkedin.com/company/arialab/);
-- 📊 Researcher at [TRIL Lab](https://www.linkedin.com/company/trillab/), working with time series and predictive models;
-- 🧠 Interested in **LLMs, deep learning, and data engineering**;
-- 💻 Main programming language: **Python**, with experience in data science and ML tools.
-
-<center>
+- 🎓 Undergraduate in **Data Science & AI** at UFPB  
+- 💼 Currently working as **Data Scientist I** at Zoox Smart Data  
 
 ---
 
-Feel free to contact me for collaborations or just to chat! 😊
+## 🛠 Tools & Technologies
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciusvieri/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cttviniciusvieri@gmail.com)
+**Languages & Runtime**  
+- Python  
+- Docker, Redis  
+
+**Data Science Libraries**  
+- **Core**: NumPy, Pandas, SciPy :contentReference[oaicite:1]{index=1}  
+- **Visualization**: Matplotlib, Seaborn, Plotly :contentReference[oaicite:2]{index=2}  
+
+**Machine Learning**  
+- Scikit-learn, TensorFlow, PyTorch, Keras, LightGBM :contentReference[oaicite:3]{index=3}  
+
+**Natural Language Processing**  
+- SpaCy, NLTK, Hugging Face Transformers  
+
+**AI Agents & Multi-Agent Systems**  
+- LangChain, LangFlow, CrewAI  
+
+**Large Language Models & Platforms**  
+- GPT‑X, BERT, T5, BLOOM (via Hugging Face)  
 
 ---
 
-</center>
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/viniciusvieri/)  
+- 📧 cttviniciusvieri@gmail.com  
+
+---
