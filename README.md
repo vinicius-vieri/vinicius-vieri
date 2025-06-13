@@ -16,11 +16,11 @@
 - Docker, Redis  
 
 **Data Science Libraries**  
-- **Core**: NumPy, Pandas, SciPy :contentReference[oaicite:1]{index=1}  
-- **Visualization**: Matplotlib, Seaborn, Plotly :contentReference[oaicite:2]{index=2}  
+- **Core**: NumPy, Pandas, SciPy 
+- **Visualization**: Matplotlib, Seaborn, Plotly 
 
 **Machine Learning**  
-- Scikit-learn, TensorFlow, PyTorch, Keras, LightGBM :contentReference[oaicite:3]{index=3}  
+- Scikit-learn, TensorFlow, PyTorch, Keras, LightGBM
 
 **Natural Language Processing**  
 - SpaCy, NLTK, Hugging Face Transformers  
